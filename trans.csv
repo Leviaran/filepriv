@@ -1,5 +1,5 @@
 str;ms_MY;en_US
 label.title;Taju;Tile
-label.verified;Disahkan;Verified
-label.unverified;Tidak Disahkan;Unverified
-label.fullname;Nama Penuh {name};Full Name {name}
+label.verified;Disakan;Verified
+label.unverified;Tida Disahkan;Unverified
+label.fullname;Name Penuh {name};Full Name {name}
