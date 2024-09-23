@@ -1,50 +1,49 @@
 str;ms_MY;en_US;zn_CN
-profile.main.my_profile.title;xxxxxxxxx;yyyyy;uuuuuu
-profile.main.last_update;xxxxxxxxx;yyyyy;uuuuuu
-profile.main.personal_details.title;xxxxxxxxx;yyyyy;uuuuuu
-about_me;xxxxxxxxx;yyyyy;uuuuuu
-more;xxxxxxxxx;yyyyy;uuuuuu
-less;xxxxxxxxx;yyyyy;uuuuuu
-label.fullname;xxxxxxxxx;yyyyy;uuuuuu
-profile.basic.gender.title;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.date_of_birth;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.marital_status;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.nationality;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.work_permit;xxxxxxxxx;yyyyy;uuuuuu
-yes;xxxxxxxxx;yyyyy;uuuuuu
-profile.main.personal_details.title.b;xxxxxxxxx;yyyyy;uuuuuu
-profile.main.account_contact.title;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.phone_number;xxxxxxxxx;yyyyy;uuuuuu
-label.verified;xxxxxxxxx;yyyyy;uuuuuu
-label.unverified;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.email_address;xxxxxxxxx;yyyyy;uuuuuu
-register.password.hint;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.working_experience;xxxxxxxxx;yyyyy;uuuuuu
-profile.experiences.empty_add_experiences;xxxxxxxxx;yyyyy;uuuuuu
-profile.main.education.title;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.education;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.add_education;xxxxxxxxx;yyyyy;uuuuuu
-profile.skill_and_language;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.language;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.skills;xxxxxxxxx;yyyyy;uuuuuu
-profile.main.job_preferences.title;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.preferred_job_title;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.preferred_industry;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.preferred_job_type;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.preferred_working_location;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.expected_salary;xxxxxxxxx;yyyyy;uuuuuu
-profile.summary.start_working;xxxxxxxxx;yyyyy;uuuuuu
-profile.social_media.title;xxxxxxxxx;yyyyy;uuuuuu
-edit;xxxxxxxxx;yyyyy;uuuuuu
-delete;xxxxxxxxx;yyyyy;uuuuuu
-profile.social_media.add;xxxxxxxxx;yyyyy;uuuuuu
-profile.main.achievement.title;xxxxxxxxx;yyyyy;uuuuuu
-profile.main.achievement.credential_id;xxxxxxxxx;yyyyy;uuuuuu
-profile.main.achievement.view_profile;xxxxxxxxx;yyyyy;uuuuuu
-profile.main.achievement.show_credential;xxxxxxxxx;yyyyy;uuuuuu
-profile.main.add_achievement;xxxxxxxxx;yyyyy;uuuuuu
-profile.references.title;xxxxxxxxx;yyyyy;uuuuuu
-profile.references.no_verified;xxxxxxxxx;yyyyy;uuuuuu
-profile.references.at;xxxxxxxxx;yyyyy;uuuuuu
-profile.references.help_to_verify';xxxxxxxxx;yyyyy;uuuuuu
-profile.references.add;xxxxxxxxx;yyyyy;uuuuuu
+about_me;Tentang Saya;About Me;关于我
+delete;Hapus;Delete;删除
+edit;Edit;Edit;编辑
+label.fullname;Nama Penuh (seperti dalam Kad Pengenalan/Pasport);Full Name (as per NRIC/Passport);全名 (如身份证/护照所示)
+label.unverified;Tidak Disahkan;Unverified;未验证
+label.verified;Disahkan;Verified;已验证
+less;Kurang;Less;更少
+more;Lebih;More;更多
+profile.basic.gender.title;Jantina;Gender;性别
+profile.experiences.empty_add_experiences;Tambah Pengalaman;Add Experience;添加添加工作经验
+profile.main.account_contact.title;Kontak & Akaun;Contact & Account;联系和帐户
+profile.main.achievement.credential_id;ID Tauliah: {credentialId};Credential ID: {credentialId};凭证ID: {credentialId}
+profile.main.achievement.show_credential;Tunjukkan Kelayakan;Show Credential;显示凭证
+profile.main.achievement.title;Pencapaian;Achievements;成就
+profile.main.achievement.view_profile;Lihat Profil;View Profile;查看资料
+profile.main.add_achievement;Tambah Pencapaian;Add Achievements;添加成就
+profile.main.education.title;Kelulusan;Education;教育程度
+profile.main.job_preferences.title;Keutamaan Kerja;Job Preferences;工作偏好
+profile.main.last_update;Kemaskini terakhir {time};Last update {time};上次更新{time}
+profile.main.my_profile.title;Profil Saya;My Profile;我的个人档案
+profile.main.personal_details.title;Butiran Peribadi;Personal Details;个人信息
+profile.main.personal_details.title.b;Alamat Semasa;Current Address;当前地址
+profile.references.add;Tambah Rujukan;Add References;添加参考资料
+profile.references.at;{title} pada {company};{title} at {company};{title} 于 {company}
+profile.references.no_verified;Tidak disahkan;Not verified;未获授权
+profile.references.title;Rujukan;References;参考资料
+profile.skill_and_language;Bahasa & Kemahiran;Language & Skill;语言与技能
+profile.social_media.add;Tambah Media Sosial;Add Social Media;添加社交媒体
+profile.social_media.title;Media sosial;Social Media;社交媒体
+profile.summary.add_education;+ Tambah Pendidikan;+ Add Education;+ 添加教育
+profile.summary.date_of_birth;Tarikh Lahir;Date of Birth;出生日期
+profile.summary.education;Pendidikan;Education;教育
+profile.summary.email_address;Alamat E-mel;Email Address;电子邮件地址
+profile.summary.expected_salary;Gaji yang dijangkakan;Expected Salary;期望薪资
+profile.summary.language;Bahasa;Language;语言
+profile.summary.marital_status;Status Perkahwinan;Marital Status;婚姻状况
+profile.summary.nationality;Kewarganegaraan;Nationality;国籍
+profile.summary.phone_number;Nombor Telefon;Phone Number;电话号码
+profile.summary.preferred_industry;Industri Yang Diingini;Preferred Industry;期望工作的行业
+profile.summary.preferred_job_title;Jawatan Yang Diingini;Preferred Job Title;期望职位
+profile.summary.preferred_job_type;Jenis Pekerjaan Yang Diingini;Preferred Job Type;期望工作类型
+profile.summary.preferred_working_location;Lokasi Kerja Yang Diingini;Preferred Working Location;期望工作地点
+profile.summary.skills;Kemahiran;Skills;技能
+profile.summary.start_working;Berapa segera anda boleh mula bekerja?;How soon you can start working?;您多快可以开始工作？
+profile.summary.work_permit;Perlukah Anda Permit Kerja?;Do You Need Working Permit?;您需要工作许可证吗？
+profile.summary.working_experience;Pengalaman Kerja;Working Experience;工作经验
+register.password.hint;Kata Laluan;Password;密码
+yes;Ya;Yes;是
